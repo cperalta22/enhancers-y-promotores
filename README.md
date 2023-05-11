@@ -6,7 +6,7 @@
 
 Desde hace mucho tiempo se descubrió que la manera elemental en que se regula la expresión de los genes es a través de una secuencia de ADN que coincide con su sitio de inicio de transcripción ahí se unen las proteinas que regulan y catalizan la transcripción [1].  
 
-Mas adelante se descubrieron otro tipo de secuencias capaces de modular la expresión de genes que no necesariamente están cerca de ellas en el genoma, se les conoce como enhancers (2). La capacidad de un enhancer para activar un gen está limitada por las superestructuras tridimensionales del ADN [3]
+Mas adelante se descubrieron otro tipo de secuencias capaces de modular la expresión de genes que no necesariamente están cerca de ellas en el genoma, se les conoce como enhancers [2]. La capacidad de un enhancer para activar un gen está limitada por las superestructuras tridimensionales del ADN [3]
 
 ![mywork](https://github.com/cperalta22/enhancers-y-promotores/assets/13229623/249fa596-086b-409c-a5d2-5485f92a4e10)
 
